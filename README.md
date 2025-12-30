@@ -14,8 +14,6 @@ Log Source 2: Kali Linux (Filebeat & Syslog used)
 <img width="2752" height="1536" alt="Gemini_Generated_Image_k2387tk2387tk238" src="https://github.com/user-attachments/assets/92ab72d6-1907-4273-a688-58dc3cf1ec63" />
 
 
-(You can post the diagram you drew with draw.io here as a picture)
-
 🛠️ Technologies Used
 
 Log Ingestion: Filebeat, Winlogbeat
