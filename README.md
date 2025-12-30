@@ -5,11 +5,11 @@ This lab environment is designed to simulate real SOC (Security Operations Cente
 
 🏗️ Architecture and Topology
 
-SIEM Server: Ubuntu Server (Elasticsearch, Logstash, Kibana)
+SIEM: Ubuntu Desktop 22.04 (Elasticsearch, Logstash, Kibana)
 
-Log Source 1: Windows 10 (Winlogbeat & Sysmon used)
+Log Source 1: Windows 10 (Winlogbeat)
 
-Log Source 2: Kali Linux (Filebeat & Syslog used)
+Log Source 2: Ubuntu Desktop 22.04 (Filebeat)
 
 <img width="2752" height="1536" alt="Gemini_Generated_Image_k2387tk2387tk238" src="https://github.com/user-attachments/assets/92ab72d6-1907-4273-a688-58dc3cf1ec63" />
 
